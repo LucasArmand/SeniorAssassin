@@ -1,0 +1,5 @@
+[27-Mar-2021 16:29:14 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/gvsensin/public_html/config.php on line 10
+[27-Mar-2021 16:29:24 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/gvsensin/public_html/config.php on line 10
+[27-Mar-2021 16:29:30 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/gvsensin/public_html/config.php on line 10
+[27-Mar-2021 16:35:57 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/gvsensin/public_html/config.php on line 10
+[27-Mar-2021 16:35:59 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/gvsensin/public_html/config.php on line 10

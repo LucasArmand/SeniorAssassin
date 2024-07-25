@@ -1,0 +1,9 @@
+.text-responsive {
+    font-family:"DigitalDream";
+    color:#00BB66;
+    font-size: calc(100% + 2vw + 2vh);
+}
+@font-face {
+    font-family: 'DigitalDream';
+    src: URL("DigitalDream.ttf") format('truetype');
+}
